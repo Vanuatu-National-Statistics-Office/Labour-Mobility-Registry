@@ -26,8 +26,8 @@ color_palette <- list(
 
 # User credentials with roles
 user_credentials <- data.frame(
-  username = c("admin", "viewer"),
-  password = c("admin123", "view123"),
+  username = c("add_your_own_admin_username", "add_your_own_viewer_username"),
+  password = c("adminpass", "viewerpass"),
   role = c("admin", "viewer"),
   stringsAsFactors = FALSE
 )
