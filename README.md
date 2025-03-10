@@ -58,15 +58,10 @@ Built with R, Shiny, and `bs4Dash`, it leverages modern libraries for responsive
 
 ---
 
-## Accessing the Application
-
-The application is hosted on Shinyapps.io and can be accessed at:  
-[https://htevilili.shinyapps.io/LabourMobilityRegistry/](https://htevilili.shinyapps.io/LabourMobilityRegistry/)  
-
 ### Login
 - The app supports two user roles: `admin` and `viewer`.
 - Contact the Vanuatu Bureau of Statistics IT team for credentials specific to your role.
-
+- **Note that access to the hosted version is restricted.**
 ---
 
 ## Usage
