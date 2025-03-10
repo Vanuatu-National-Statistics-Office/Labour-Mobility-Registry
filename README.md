@@ -3,7 +3,6 @@
 **Version**: 2.0  
 **Updated**: February 27, 2025  
 **Developed by**: Vanuatu Bureau of Statistics
-
 **Documentation**: https://htevilili1991.quarto.pub/documentation/
 
 The Labour Mobility Schemes Registry is a Shiny-based web application designed to manage, visualize, and explore labour mobility data for the Vanuatu Bureau of Statistics. This hosted version (2.0) introduces enhanced security, usability, and interactivity features.
