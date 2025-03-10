@@ -130,10 +130,4 @@ The application expects uploaded CSV data to match the following column structur
 - **Data Upload Errors**: Ensure your CSV matches the required structure (download the template for reference).
 - **App Not Loading**: Check the Shinyapps.io status or contact support.
 
----
-
-## Support
-
-For assistance, credential requests, or feedback, please contact:  
-**Herman Tevilili**  
-htevilili@gmail.com  
+ 
